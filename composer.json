@@ -12,7 +12,7 @@
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "Hasi\\PayTabs":"src/"
+            "Hasi\\PayTabs\\":"src/"
         }
     },
     "require": {
