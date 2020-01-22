@@ -1,0 +1,21 @@
+{
+    "name": "hasi/pay-tab",
+    "version": "1.0.0",		
+    "description": " PayTabs Express Checkout is a solution that provides an efficient checkout process for online shoppers which keeps them on the merchant's website while making a payment and even after the payment is complete",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Haseeb Ahmad",
+            "email": "hahmad748@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Hasi\\PayTabs":"src/"
+        }
+    },
+    "require": {
+        "laravel/framework": "^6.0"
+    }
+}
